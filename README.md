@@ -6,13 +6,6 @@ or explaining debugging to non-tech friends 🐛🔦.
 
 ---
 
-
-<p align="center">
-  <img src="https://github.com/rudrabarad/Gifs/blob/master/programmer.gif?raw=true" alt="Animated programmer coding" width="250" />
-</p>
-
----
-
 ## 🛠️ Tech Toolbox
 
 <p align="center">
