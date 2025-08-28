@@ -6,7 +6,6 @@ or explaining debugging to non-tech friends 🐛🔦.
 
 ---
 
-## 👨‍💻 Animated Programmer at Work  
 
 <p align="center">
   <img src="https://github.com/rudrabarad/Gifs/blob/master/programmer.gif?raw=true" alt="Animated programmer coding" width="250" />
@@ -14,7 +13,7 @@ or explaining debugging to non-tech friends 🐛🔦.
 
 ---
 
-## 🛠️ Tech Toolbox (Animated + Static Icons)  
+## 🛠️ Tech Toolbox
 
 <p align="center">
   <!-- Replace these with animated GIFs if you want movement -->
