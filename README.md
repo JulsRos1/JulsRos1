@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hey there, I’m Jenn Julian Ros
 
-<!--
-**JulsRos1/JulsRos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I’m a developer who works hard and always willing to learn, I code functional, modern, and responsive Applications.
+When I’m not coding, you’ll probably find me sketching designs on Figma, pixel-pushing in Photoshop, or trying to explain to non-tech friends what “debugging” actually means 🐛🔦.
 
-Here are some ideas to get you started:
+🛠️ Tech Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are the tools I use to build cool things (and occasionally break them):
+
+💻 Languages & Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+🎨 Styling & UI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+🗄️ Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+✏️ Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+✨ Fun Facts About Me
+
+🚀 I believe in “work smart, then work hard.”
+
+🐱 I write cleaner CSS than my room is clean.
+
+🎧 Coding + music = infinite productivity boost.
+
+📫 Let’s Connect!
+
+🌐 Portfolio: https://jjulsros.vercel.app
+
+💼 LinkedIn:https://www.linkedin.com/feed/
+
+💡 Always learning, always building, always curious.
