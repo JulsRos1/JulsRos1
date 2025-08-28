@@ -32,8 +32,8 @@ Welcome to my corner of GitHub! I build functional, modern, and responsive appli
 ---
 
 ## 📫 Let’s Connect!
-- 🌐 Portfolio: [jjulsros.vercel.app](https://jjulsros.vercel.app)  
-- 💼 LinkedIn: (https://www.linkedin.com/feed/)](https://www.linkedin.com/in/jenn-julian-ros/)
+- 🌐 Portfolio: [jjulsros.vercel.app](https://jjulsros.vercel.app]
+- 💼 LinkedIn: [https://www.linkedin.com/in/jenn-julian-ros/]
 
 ---
 
