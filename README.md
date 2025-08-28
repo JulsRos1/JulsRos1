@@ -1,16 +1,15 @@
 # 👋 Hey there, I’m Jenn Julian Ros
 
 Welcome to my corner of GitHub! I build functional, modern, and responsive applications—and I’m always eager to learn.  
-When I’m not coding, you’ll catch me sketching on Figma, pixel-pushing in Photoshop, or explaining debugging to non-tech friends 🐛🔦.
 
 ---
 
 ## 👨‍💻 Animated Programmer at Work
 <p align="center">
   <!-- upload programmer.gif to your repo at: assets/programmer.gif -->
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/programmer.gif" alt="Animated programmer coding" width="250" />
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="250" />
 </p>
-
+https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 ---
 
 ## 🛠️ Tech Toolbox
