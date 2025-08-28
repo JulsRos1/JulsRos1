@@ -6,10 +6,9 @@ Welcome to my corner of GitHub! I build functional, modern, and responsive appli
 
 ## 👨‍💻 Animated Programmer at Work
 <p align="center">
-  <!-- upload programmer.gif to your repo at: assets/programmer.gif -->
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="250" />
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" />
 </p>
-https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+
 ---
 
 ## 🛠️ Tech Toolbox
