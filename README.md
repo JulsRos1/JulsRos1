@@ -8,8 +8,6 @@ Welcome to my corner of GitHub! I build functional, modern, and responsive appli
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="60%" height="350"  />
 </p>
 
----
-
 ## 🛠️ Tech Toolbox
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64" alt="PHP" />
