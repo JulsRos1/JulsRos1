@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! I build functional, modern, and responsive appli
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" height="250"  />
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="60%" height="350"  />
 </p>
 
 ---
