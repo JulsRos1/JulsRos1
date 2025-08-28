@@ -4,9 +4,8 @@ Welcome to my corner of GitHub! I build functional, modern, and responsive appli
 
 ---
 
-## 👨‍💻 Animated Programmer at Work
 <p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" />
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" height="250"  />
 </p>
 
 ---
